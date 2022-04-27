@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "e7310573-2f70-4f62-aa01-6dc158da273d",
+      "name": "Avinash",
+      "email": "sankeravinash98@gmail.com"
+    },
+    {
+      "id": "bf35e96f-77e7-4964-8a1f-836b1689f8d3",
+      "name": "Heyy",
+      "email": "heyy@gmail.com"
+    },
+    {
+      "id": "622706f0-66f3-48aa-8437-1b6369d3f77d",
+      "name": "Aruna",
+      "email": "akumari@innomind.com"
+    }
+  ]
+}
